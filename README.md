@@ -26,7 +26,7 @@ To get started with the project, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/abhishekboadgurjar/Age-Calculator.git
+    git clone https://github.com/abhishekgurjarin/Age-Calculator.git
     ```
 
 2. **Open the project directory**:
@@ -47,7 +47,7 @@ To get started with the project, follow these steps:
 
 ## Live Demo
 
-You can check out the live demo of the Age Calculator [here](https://abhishekboadgurjar.github.io/Age-Calculator/).
+You can check out the live demo of the Age Calculator [here](https://abhishekgurjarin.github.io/Age-Calculator/).
 ## Screenshots
 ![Screenshot 2024-08-09 222206](https://github.com/user-attachments/assets/271b87ba-29c5-47cc-a1f6-7cd1ac2d9957)
 
@@ -63,5 +63,5 @@ This project was inspired by the need for a simple and effective age calculation
 ## Author
 
 - **Abhishek Gurjar**
-  - [GitHub Profile](https://github.com/abhishekboadgurjar)
+  - [GitHub Profile](https://github.com/abhishekgurjarin)
 
